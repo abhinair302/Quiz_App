@@ -1,5 +1,5 @@
 ## 🧠 Quizzler - Python Trivia Quiz App
-Quizzler is a fun and interactive trivia quiz application built using Python and Tkinter. It fetches real-time questions from the Open Trivia Database and challenges the user with True/False questions in a clean, graphical interface.
+Quizzler is a fun and interactive trivia quiz application built using Python and Tkinter. It fetches real-time questions from the Open Trivia Database and challenges the user with True/False questions in a clean, graphical interface. 
 
 ---
 
@@ -39,6 +39,6 @@ A new quiz window will open. Click ✅ for True or ❌ for False. Your score is 
 ---
 
 ## 🙏 Thank You
-Thanks for checking out this project! Hope you enjoyed playing with Quizzler. Your visit and interest means a lot. 😊
+I made this project as a part of a Udemy course. So special Thanks to Dr. Angela Yu for guiding me step by step, to build this project. Thanks for checking out this project! Hope you enjoyed playing with Quizzler. Your visit and interest means a lot. 😊
 
 --Abhijeet--
